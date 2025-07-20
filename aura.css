@@ -930,12 +930,12 @@ a, button, [role="button"], input, textarea, select {
   }
   .background{
     width: 530px;
-    margin-top: 200px;
+    margin-top: 250px;
   }
   #preloader{
     /* background-color: red; */
     width: 535px;
-    height: 1000px;
+    height: 1200px;
   }
 
 
